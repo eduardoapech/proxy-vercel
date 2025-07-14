@@ -1,5 +1,5 @@
 {
-  "name": "proxy-vercel-direct",
+  "name": "proxy-vercel-with-function",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {}
